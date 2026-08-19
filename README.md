@@ -2,7 +2,7 @@
 
 Tiny React primitives for building growth experiments.
 
-Live site: https://anisha698.github.io/CTAprimitives/
+Live site: https://ct-aprimitives.vercel.app/
 
 Repo: https://github.com/anisha698/CTAprimitives
 
