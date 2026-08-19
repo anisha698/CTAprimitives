@@ -2,6 +2,8 @@
 
 Tiny React primitives for building growth experiments.
 
+Repo: https://github.com/anisha698/CTAprimitives
+
 ## Run locally
 
 ```bash
