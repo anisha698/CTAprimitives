@@ -471,6 +471,7 @@ export default function App() {
           <button type="button" className={tab === "primitives" ? "is-active" : undefined} onClick={() => setTab("primitives")}>Primitives</button>
           <button type="button" className={tab === "recipes" ? "is-active" : undefined} onClick={() => setTab("recipes")}>Recipes</button>
           <a href="#install">Docs</a>
+          <a href="https://github.com/anisha698/CTAprimitives/issues/new?template=feedback.md" target="_blank" rel="noreferrer">Feedback</a>
         </nav>
       </header>
 
@@ -537,6 +538,12 @@ export default function App() {
         </ol>
       )}
 
+      <section className="docs" id="feedback">
+        <h2>Feedback</h2>
+        <p>Try the demos, then tell me what felt useful, confusing, or missing.</p>
+        <a className="feedback-link" href="https://github.com/anisha698/CTAprimitives/issues/new?template=feedback.md" target="_blank" rel="noreferrer">Leave feedback →</a>
+      </section>
+
       <section className="docs" id="install">
         <h2>Usage</h2>
         <p>The primitives own the behavior. You own the visual system.</p>
@@ -551,7 +558,7 @@ export default function App() {
 
       <footer className="footer">
         <p>Experiment Primitives</p>
-        <a href="#top">Back to top ↑</a>
+        <a href="https://github.com/anisha698/CTAprimitives/issues/new?template=feedback.md" target="_blank" rel="noreferrer">Leave feedback</a>
       </footer>
     </div>
   );

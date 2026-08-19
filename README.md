@@ -2,7 +2,11 @@
 
 Tiny React primitives for building growth experiments.
 
+Live site: https://anisha698.github.io/CTAprimitives/
+
 Repo: https://github.com/anisha698/CTAprimitives
+
+Leave feedback: https://github.com/anisha698/CTAprimitives/issues/new?template=feedback.md
 
 ## Run locally
 

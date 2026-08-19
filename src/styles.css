@@ -353,6 +353,8 @@ code, pre { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 
 }
 .docs h2 { margin: 0 0 8px; font-size: 16px; font-weight: 560; }
 .docs p { margin: 0 0 16px; color: var(--muted); }
+.feedback-link { color: var(--fg); }
+.feedback-link:hover { text-decoration: underline; text-underline-offset: 3px; }
 .docs pre {
   margin: 0;
   padding: 14px 16px;
